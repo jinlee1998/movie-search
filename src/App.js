@@ -81,12 +81,14 @@ class App extends React.Component {
     for (var key3 in this.state.movieSearchReturnValues) {
       movieSearchResults.push(
         <div className="searchResultDiv" key={key3}>
+          <ul className="add">
           <h3><a target="_blank" rel="noreferrer" href={this.state.movieSearchReturnValues[key3].imdbURL}>{this.state.movieSearchReturnValues[key3].title}</a> : {this.state.movieSearchReturnValues[key3].genre}</h3>
             <p> Director(s): {this.state.movieSearchReturnValues[key3].director}</p>
             <div></div>
             <b> IMDb Rating: {this.state.movieSearchReturnValues[key3].rating}/10</b>
             <p>({this.state.movieSearchReturnValues[key3].year})</p>
             <p className="description" dangerouslySetInnerHTML={{__html: this.state.movieSearchReturnValues[key3].plot}}></p>
+            </ul>
         </div>
       );
     }

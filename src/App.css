@@ -141,3 +141,7 @@ h4{
   float: right;
   margin-bottom: 20px;
 }
+ul.add {
+  opacity: 0;
+  animation: fadeIn .3s linear forwards;
+}
