@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/shoppies-challenge/static/css/main.850b6a63.chunk.css",
-    "main.js": "/shoppies-challenge/static/js/main.42a05b02.chunk.js",
-    "main.js.map": "/shoppies-challenge/static/js/main.42a05b02.chunk.js.map",
-    "runtime-main.js": "/shoppies-challenge/static/js/runtime-main.6c645792.js",
-    "runtime-main.js.map": "/shoppies-challenge/static/js/runtime-main.6c645792.js.map",
-    "static/js/2.e37b66a6.chunk.js": "/shoppies-challenge/static/js/2.e37b66a6.chunk.js",
-    "static/js/2.e37b66a6.chunk.js.map": "/shoppies-challenge/static/js/2.e37b66a6.chunk.js.map",
-    "static/js/3.55a254ae.chunk.js": "/shoppies-challenge/static/js/3.55a254ae.chunk.js",
-    "static/js/3.55a254ae.chunk.js.map": "/shoppies-challenge/static/js/3.55a254ae.chunk.js.map",
-    "index.html": "/shoppies-challenge/index.html",
-    "static/css/main.850b6a63.chunk.css.map": "/shoppies-challenge/static/css/main.850b6a63.chunk.css.map",
-    "static/js/2.e37b66a6.chunk.js.LICENSE.txt": "/shoppies-challenge/static/js/2.e37b66a6.chunk.js.LICENSE.txt"
+    "main.css": "/movie-search/static/css/main.feabb844.chunk.css",
+    "main.js": "/movie-search/static/js/main.76c3e19f.chunk.js",
+    "main.js.map": "/movie-search/static/js/main.76c3e19f.chunk.js.map",
+    "runtime-main.js": "/movie-search/static/js/runtime-main.b84c3599.js",
+    "runtime-main.js.map": "/movie-search/static/js/runtime-main.b84c3599.js.map",
+    "static/js/2.37f7f33b.chunk.js": "/movie-search/static/js/2.37f7f33b.chunk.js",
+    "static/js/2.37f7f33b.chunk.js.map": "/movie-search/static/js/2.37f7f33b.chunk.js.map",
+    "static/js/3.46ae002b.chunk.js": "/movie-search/static/js/3.46ae002b.chunk.js",
+    "static/js/3.46ae002b.chunk.js.map": "/movie-search/static/js/3.46ae002b.chunk.js.map",
+    "index.html": "/movie-search/index.html",
+    "static/css/main.feabb844.chunk.css.map": "/movie-search/static/css/main.feabb844.chunk.css.map",
+    "static/js/2.37f7f33b.chunk.js.LICENSE.txt": "/movie-search/static/js/2.37f7f33b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6c645792.js",
-    "static/js/2.e37b66a6.chunk.js",
-    "static/css/main.850b6a63.chunk.css",
-    "static/js/main.42a05b02.chunk.js"
+    "static/js/runtime-main.b84c3599.js",
+    "static/js/2.37f7f33b.chunk.js",
+    "static/css/main.feabb844.chunk.css",
+    "static/js/main.76c3e19f.chunk.js"
   ]
 }
